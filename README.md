@@ -1,3 +1,5 @@
+Article Title:Automated Identification of Transthyretin Cardiac Amyloidosis Using Cross Modal Neural Networks on 99mTc Pyrophosphate Imaging and Clinical Data
+
 Accurate, early diagnosis of transthyretin (ATTR) cardiac amyloidosis is challenging yet critical for effective treatment.
 We propose two multimodal deep‑learning frameworks—Late Fusion (LF) and Cross‑Modal Fusion Network (CMF‑Net)—that combine 99mTc‑PYP scintigraphy with clinical metadata to automate detection.
 On a curated cohort of 109 patients (62 positive, 47 negative), fusion models consistently outperformed image‑only CNNs: CMF‑Net raised average accuracy by 6.9 percentage points and LF by 5.4. 
